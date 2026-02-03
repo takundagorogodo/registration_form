@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="registrationform.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <form action="">
+      <h1>Registration Form</h1>
+      
+      <div class="input-box">
+        <i class="fa fa-user"></i>
+        <input type="text" placeholder="First Name" required>
+      </div>
+
+      <div class="input-box">
+        <i class="fa fa-user"></i>
+        <input type="text" placeholder="Last Name" required>
+      </div>
+
+      <div class="input-box">
+        <i class="fa fa-envelope"></i>
+        <input type="email" placeholder="Email" required>
+      </div>
+
+      <div class="input-box">
+        <i class="fa fa-unlock-alt"></i>
+        <input type="password" placeholder="Create Password" required>
+      </div>
+
+      <div class="input-box">
+        <i class="fa fa-unlock-alt"></i>
+        <input type="password" placeholder="Confirm Password" required>
+      </div>
+
+      <div class="radio-btn">
+        <label><input type="radio" name="gender" value="male" required> Male</label>
+        <label><input type="radio" name="gender" value="female"> Female</label>
+      </div>
+
+      <div class="country">
+        <select required>
+          <option value="" disabled selected>Select Country</option>
+          <option value="zimbabwe">Zimbabwe</option>
+          <option value="mozambique">Mozambique</option>
+          <option value="zambia">Zambia</option>
+        </select>
+      </div>
+
+      <div class="check">
+        <input type="checkbox" required> I accept the terms and conditions
+      </div>
+
+      <div class="btn">
+        <button type="submit">Register</button>
+      </div>
+
+      <div class="login">
+        <p>already have an account 
+         <a href="loginform1.html">Login</a>
+        </p>
+      </div>
+    </form>
+  </div>
+</body>
+</html>
