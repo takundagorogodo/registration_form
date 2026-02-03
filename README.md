@@ -30,7 +30,7 @@ registration_form/
 
 ## 🖼️ Screenshots
 ### Registration Form UI
-![Registration Form Screenshot](screenshots/registration.jpg)
+![Registration Form Screenshot](screenshots/registration.png)
 
 ## 🌐 Live Demo
 https://takundagorogodo.github.io/registration-form/
