@@ -40,18 +40,18 @@ No backend or database is connected.
 Ensure correct relative paths for CSS and images when deploying.
 
 ---
-✨ Future Improvements
-
-Add JavaScript form validation
-Add password strength indicator
-Backend integration (Node.js / PHP / Firebase)
+##✨ Future Improvements
+-Add JavaScript form validation
+-Add password strength indicator
+-Backend integration (Node.js / PHP / Firebase)
 
 Improve accessibility (ARIA labels)
 
-📜 License
-This project is open-source and available under the MIT License.
+##📜 License
+-This project is open-source and available under the MIT License.
 
 👤 Author
-PROSPERITY (Takundah Gorogodo)
-Frontend Development Enthusiast
-GitHub: https://github.com/takundagorogodo
+
+-PROSPERITY (Takundah Gorogodo)
+-Frontend Development Enthusiast
+-GitHub: https://github.com/takundagorogodo
