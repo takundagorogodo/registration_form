@@ -33,21 +33,17 @@ registration_form/
 ### Registration Form UI
 ![Registration Form Screenshot](screenshots/registration.png)
 
-
-📌 Notes
-This project focuses on frontend UI only.
-No backend or database is connected.
-Ensure correct relative paths for CSS and images when deploying.
-
----
-##✨ Future Improvements
+## 📌Notes
+-This project focuses on frontend UI only.
+-No backend or database is connected.
+-Ensure correct relative paths for CSS and images when deploying.Future Emprovements ✨ 
 -Add JavaScript form validation
 -Add password strength indicator
 -Backend integration (Node.js / PHP / Firebase)
 
 Improve accessibility (ARIA labels)
 
-##📜 License
+## 📜 Screenshots
 -This project is open-source and available under the MIT License.
 
 👤 Author
