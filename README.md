@@ -18,6 +18,7 @@ A modern and responsive **Registration Form** built using **HTML5 and CSS3**, fe
 - **Font Awesome 6**
 - **Google Fonts (Poppins)**
 
+```
 ## 📂 Project Structure
 
 registration_form/
@@ -27,20 +28,20 @@ registration_form/
 │ └── laptop_special.jpg
 │── screenshots/
 │ └── registration.png
-
+```
 ## 🖼️ Screenshots
 ### Registration Form UI
 ![Registration Form Screenshot](screenshots/registration.png)
 
-## 🌐 Live Demo
-https://takundagorogodo.github.io/registration-form/
 
 📌 Notes
 This project focuses on frontend UI only.
 No backend or database is connected.
 Ensure correct relative paths for CSS and images when deploying.
 
+---
 ✨ Future Improvements
+
 Add JavaScript form validation
 Add password strength indicator
 Backend integration (Node.js / PHP / Firebase)
