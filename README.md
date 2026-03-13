@@ -33,9 +33,9 @@ registration_form/
 ### Registration Form UI
 ![Registration Form Screenshot](screenshots/registration.png)
 
-## 📌Notes
--This project focuses on frontend UI only.
--No backend or database is connected.
+## 📌Notes:
+-This project focuses on frontend UI only
+-No backend or database is connected
 -Ensure correct relative paths for CSS and images when deploying.Future Emprovements ✨ 
 -Add JavaScript form validation
 -Add password strength indicator
