@@ -42,7 +42,6 @@ This project is open-source and available under the MIT License.
 
 👤 Author
 
-PROSPERITY (Takundah Gorogodo)
-Frontend Development Enthusiast
-GitHub: https://github.com/takundagorogodo
+PROSPERITY (Takunda Gorogodo)
+
 
